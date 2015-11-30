@@ -1,0 +1,1 @@
+add_library(impurity entropy_impurity)

@@ -1,0 +1,3 @@
+add_library(report decision_tree_report distance_comparaison_report
+  distance_evaluation_report pruning_report report
+  print_tree_latex print_tree_json)

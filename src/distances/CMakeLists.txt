@@ -1,0 +1,1 @@
+add_library(distances dtw_value_distance lp_local_distance)

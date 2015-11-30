@@ -1,0 +1,2 @@
+add_library(split cluster_split improved_cluster_split plain_cluster_split
+  split split_kind standard_split)

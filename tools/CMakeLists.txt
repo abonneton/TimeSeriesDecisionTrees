@@ -1,0 +1,5 @@
+add_executable(build_decision_tree build_decision_tree)
+add_executable(compare_decision_trees compare_decision_trees)
+
+target_link_libraries(build_decision_tree report distances libtsdt)
+target_link_libraries(compare_decision_trees report distances libtsdt)
